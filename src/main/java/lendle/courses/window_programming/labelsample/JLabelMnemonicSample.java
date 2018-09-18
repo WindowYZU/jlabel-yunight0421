@@ -15,7 +15,7 @@ import javax.swing.WindowConstants;
  *
  * @author lendle
  */
-public class JLabelSample {
+public class JLabelMnemonicSample {
 
     /**
      * @param args the command line arguments
