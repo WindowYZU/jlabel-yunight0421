@@ -28,7 +28,8 @@ public class JLabelMnemonicSample {
         JLabel label1 = new JLabel("User");
         JLabel label2 = new JLabel("Password");
         //設定 label1 和 label2 的 displayed mnemonic
-        
+        label1.setDisplayedMnemonic('U');
+        label2.setDisplayedMnemonic('P');
         ////////////////////////////////////////////
         JTextField textField = new JTextField(20);
         JTextField textField1 = new JTextField(20);
